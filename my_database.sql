@@ -58,7 +58,7 @@ CREATE TABLE `games` (
 
 LOCK TABLES `games` WRITE;
 /*!40000 ALTER TABLE `games` DISABLE KEYS */;
-INSERT INTO `games` VALUES (1,'GTA','Stupid Game','/images/Grand_Theft_Auto_logo_series.svg'),(2,'Candy Crush','Kids game','/images/candy.png'),(3,'Temple Run','Bhaag bhaag DK bose, DK bose, DK bose','/images/Temple-Run-Logo.webp');
+INSERT INTO `games` VALUES (1,'GTA','Stupid Game','/images/Grand_Theft_Auto_logo_series.svg'),(2,'Candy Crush','Kids game','/images/candy.png'),(3,'Temple Run','Bhaagooooooooo','/images/Temple-Run-Logo.webp');
 /*!40000 ALTER TABLE `games` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
